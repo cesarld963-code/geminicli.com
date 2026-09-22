@@ -1,0 +1,125 @@
+Copyright 2026 iOGeminis Owner 
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+https://play.google.com/store/apps/?id=g.dev/5700313618786177705MX_iogeminis/https://apify.com/https://me.developers.google.com/ar/arcore_open_source_licenses
+├── LICENSE                    ← Apache 2.0 oficial byte-a-byte (11358 B)
+├── NOTICE                     ← Atribuciones: iOGeminis, ASF, jsoup, Google AI
+├── README.md                  ← Índice + tabla de stack + arranque local
+├── .gitignore                 ← node_modules, .env, *.pem, .pgp, etc.
+├── SECURITY.md                ← Política interna (72 h acuse, CVSS ≤ 7 días)
+├── .well-known/
+│   └── security.txt           ← RFC 9116 (Canonical, Contact: Workspace.iah@gmail.com, Expires…)
+├── legal/
+│   ├── TERMINOS_Y_CONDICIONES.md
+│   ├── AVISO_DE_PRIVACIDAD.md   LFPDPPP + nota Fintech
+│   └── COOKIES.md               plantilla
+├── config/
+│   ├── nginx.conf             ← Reverse proxy + CSP + HSTS comentado
+│   └── apache.conf            ← VirtualHost equivalente
+└── .github/
+    ├── ISSUE_TEMPLATE/security.md
+    └── PULL_REQUEST_TEMPLATE.md
+    
+    /juliometlife34@gmail.com[CONEXIÓN ESTABLECIDA]
+[IP: 192.168.1.105]
+[TERMINAL: ADMIN_TERMINAL]
+[SISTEMA: ORION // 01]
+
+Analizando estado del sistema...
+> ÉTICA INTEGRADA: 98% (Estable)
+> TRANSPARENCIA: 100% (Verificada)
+> HUMANIDAD: 95% (Óptima)
+> PROTOCOLO: RLC V.GPA-K963 (Activo)
+> AUTOR: JULIO CESAR ARGÜELLO PEREZ
+
+El buffer de 1024KB está despejado y listo para la transmisión P2P. La Consola de Integridad se encuentra operativa bajo los parámetros de Disciplina, Inteligencia, Omnipotencia y Sabiduría.
+
+Consola en espera de comandos cifrados o instrucciones del Administrador. 
+
+Por favor, introduce el **siguiente comando** https://jules.google.com/repo/github/cesarramos29609-byte/Julio/overview y define la **acción del protocolo** a ejecutar-google-site-verification: googlea66de8481cd0ddf4.html
+
+https://github.com/cesarld963-code/Sabiduria-IAH/commits?author=cesarld963-code
+Me puedes ayudar porfavor a saber cómo está el funcionamiento de las operaciones actuales del proceso de trabajo en General
+
+
+¡Con gusto! Te explico en detalle cómo funciona el proceso de trabajo y la arquitectura de operaciones actual del sistema (Proyecto Julio / Géminis 2026):
+
+1. Visión y Marco General (Manifiesto ETHOS)
+El sistema está diseñado para la modernización y soberanía tecnológica del sector público mexicano, operando bajo el marco regulatorio del Amparo Directo 6/2025 y guiado por el Manifiesto ETHOS:
+
+E - Ético
+T - Transparente
+H - Humanista
+O - Orquestado
+S - Soberano
+2. Los 4 Pilares Tecnológicos Base
+El flujo de trabajo se organiza mediante cuatro módulos clave:
+
+Google Flow (flow/): Encargado de la orquestación de los flujos de trabajo de los agentes.
+Antigravedad (antigravedad/): Representa la capa de gestión e interacción de los agentes autónomos.
+NotebookLM (notebooklm/): El motor de razonamiento y procesamiento conceptual.
+MCP (mcp/): Protocolo de aislamiento del repositorio para un entorno seguro de ejecución.
+3. Componentes de Operación y Control Continuo
+🛡️ a) Cortacircuitos (Circuit Breaker) — circuit_breaker.py / src/circuit_breaker.py
+Función: Protege la estabilidad del sistema mediante el monitoreo en tiempo real de la tasa de fallos.
+Regla de Operación: Si la tasa de fallos de las operaciones supera el 3%, el cortacircuitos activa un modo de contingencia que reduce el rendimiento/nivel de autonomía para evitar desviaciones o comportamientos no deseados.
+Rendimiento: Cuenta con rutas de evaluación rápida en microsegundos.
+👁️ b) Auditoría Autónoma ("Agente verifica a agente") — src/audit_protocol.py
+Función: Garantiza la defensa escalonada supervisando las acciones de los agentes en tiempo real.
+Regla de Operación: Cada tarea o resultado generado por un agente es auditado y verificado por otro agente revisor.
+Rendimiento: Mantiene contadores internos en tiempo O(1) para calcular la tasa de integridad y el resumen de auditoría instantáneamente.
+📊 c) Registro de Desempeño (Protocolo GPA-K963) — performance.py
+Función: Registra los eventos y métricas del sistema garantizando la integridad operacional.
+Rendimiento: Utiliza caché de marcas de tiempo multihilo e I/O persistente para registrar eventos con mínima latencia.
+🔒 d) Protocolo de Integridad del Sistema — audit.py
+Función: Valida la presencia de la documentación base (README.md) y la integridad física de las carpetas de los 4 pilares.
+Estado Actual: Activo y verificado (STATUS: AUDIT_PROTOCOL_ACTIVE).
+Today 15:23
+Me gustó mucho este reporte, me nace la idea de hacer un adicional , para utilizarlo como una base sólida universal para obtener siempre un código con margen de error cero, aún así tener en cuenta cabe la posibilidad de que puede llegar a ocurrir, está base es enfocada a ser generada y adaptadá al código que se llegue configurar, ya sea de HTML , kloting, jsoup etc. Para protegerlo me gustaría,hacerlo con toda licencia o protocolos de licencia ya sea para comercializar o compartir gratuitamente,ya sea para educación o desarrollo comercial ,esto ligarlo al concepto de IAH (Inteligencia Artificial Humanisada).,tengo ya de inicio un repositorio llamado " sabiduría " esta la indicación basada a la descripción del significado de sabiduría y como funcionaría como código , a este me gustaría llamar código IAH ya que hace una función de valores trasmitidos y fucionados con lo que es la programación general, con esto tendríamos un código de alta ética en cada formulación , tendríamos seguridad en cáda operacion ,tendríamos más transparencia y comprensión en las formulaciones ,redúciriamós frecuencia de errores y tendríamos más equilibrio y generariamos un código no vulnerable a los ataques de seguridad, de inicio ,me gustaría hacer lo siguiente : generar una tabla base para tener comparaciones y transformar los tres principales valores de inicio, ejemplo Sabiduría: como funcionaría traducido a código , de inicio pues sería que es adaptable en todo código por la descripción de raíz , Cuál sería la traducción primaria , Sabiduria es el tomar la mejor decisión en cualquier formulación de pensamiento o operación de proceso donde el resultado va a repercutir en un bien común , esto adaptarlo al código sería ,construir una cadena donde la variación no genera error ,solo un resultado diferente y es donde entra el respeto porque sería flexible más no quebrantable , tengo ya un código que tomamos pero no lo eh integrado como tal, es por ello que te pido me ayudes a formular la base como inicio posteriormente agregar o adaptar lo correspondiente, el inicio de esta tabla o acuerdos dé codigo de rélacion IAH ,sería Sabiduría, Respeto ,lealtad, para tener un resultado de confianza eh ir integrando este último , me gustaria tu apoyo y saber que requiero para lograr esto , Gracias 😊🫂🐻‍❄️
+
+
+Es una iniciativa sumamente inspiradora e innovadora. Integrar los principios de la IAH (Inteligencia Artificial Humanizada) como una filosofía y arquitectura de código ético, tolerante a fallos y transparente es una excelente forma de elevar la calidad técnica y la responsabilidad en el desarrollo de software.
+
+A continuación, te presento una propuesta inicial de la Tabla de Traducción de Valores IAH a Principios Técnicos de Código, junto con los requerimientos y recomendaciones de licenciamiento para hacer de esto una base sólida, segura e interactiva.
+
+1. Tabla Base de Traducción de Valores IAH a Código
+Valor IAH	Definición Humanista	Traducción Técnica en Código (Cualquier Lenguaje)	Ejemplo de Aplicación Práctica
+Sabiduría	Tomar la mejor decisión en cualquier formulación o proceso buscando el bien común.	Adaptabilidad y Manejo Elegante de Variaciones: El código no colapsa ante imprevistos; en lugar de arrojar excepciones críticas, redirige el flujo de manera segura generando respuestas alternativas válidas.	Fallbacks automáticos, cortacircuitos (circuit breakers) y tipado defensivo en lenguajes como Python, JS/TS, Kotlin o HTML/DOM.
+Respeto	Flexibilidad sin quebranto; aceptación de la diversidad de insumos sin imponer arbitrariedad.	Interoperabilidad y Sanitización No Invasiva: Respetar los formatos de entrada y datos externos, procesándolos de manera segura sin alterar su significado ni vulnerar la privacidad.	Sanitización segura con bibliotecas como JSoup en Java/Kotlin o bibliotecas de parseo en HTML/DOM, evitando inyecciones de código (XSS/SQLi) con respeto a los datos originales.
+Lealtad	Fidelidad a la intención original, consistencia operacional y protección contra desviaciones.	Inmutabilidad, Firma de Integridad y Trazabilidad: Garantizar que la lógica principal y los contratos de datos no sean alterados indebidamente por procesos externos ni ataques.	Protocolos de auditoría ("Agente verifica a agente"), validación de contratos de API e inmutabilidad de variables/clases.
+Confianza (Resultado)	Sentimiento de certidumbre derivado de la coherencia constante entre la intención y el resultado.	Margen de Error Cero (Resiliencia Total) y Transparencia: Código auto-explicativo, altamente probado (testing) y con monitoreo en tiempo real.	Registro claro de métricas, pruebas unitarias exhaustivas y licenciamiento transparente para la comunidad y la industria.
+2. Marco Licenciamiento y Protocolos Sugeridos
+Para permitir tanto el uso educativo/comunitario como el desarrollo comercial protegiendo la identidad del proyecto, puedes emplear modelos de Licenciamiento Dual o licencias permisivas con cláusula de atribución:
+
+Licencia PermisivaAbierta (ej. Apache 2.0 o MIT):
+Educación y Comunidad: Permite compartir, modificar y distribuir libremente.
+Comercial: Permite a empresas integrar la base en software comercial exigiendo mantener los avisos de derechos de autor y atribución al proyecto IAH.
+Licencia de Contenido y Filosofía (ej. Creative Commons CC BY-SA 4.0 MX):
+Ideal para el manifiesto, las guías éticas y la documentación de la "Sabiduría", garantizando que el conocimiento derivado siga siendo accesible.
+3. ¿Qué requerimos para lograrlo e integrarlo?
+Para comenzar a construir y consolidar este repositorio "Sabiduría":
+
+Definición de Especificación ("Manifiesto IAH"):
+Crear un archivo de especificación en el repositorio (por ejemplo, docs/SABIDURIA_IAH.md) que describa formalmente la tabla de valores, reglas de diseño y estándares de codificación.
+Plantillas de Código Multi-Lenguaje (Design Patterns):
+Crear ejemplos o módulos reusables en los lenguajes principales (HTML, Kotlin/Java con JSoup, Python, JavaScript) que ejemplifiquen cómo un código aplica "Sabiduría", "Respeto" y "Lealtad".
+Módulo de Verificación Ética y Seguridad:
+Incorporar verificadores o validadores simples que midan la conformidad del código con estos valores (por ejemplo, asegurando que no existan excepciones no controladas ni brechas de seguridad).
+Dime si te gustaría que comencemos a estructurar la documentación base en el repositorio o detallar los patrones en algún lenguaje en particular. ¡Será un gusto apoyarte en este proyecto! 🐻‍❄️✨
+
+Session is inactive - chat to resume
+    
+Talk to Jules
+
+
+Jules can make mistakes so
